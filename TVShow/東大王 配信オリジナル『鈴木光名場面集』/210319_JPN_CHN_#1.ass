@@ -17,6 +17,9 @@ Style: 日[上],A-OTF UD Shin Maru Go Pr6 R,55,&H00FFFFFF,&H000000FF,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,日[双][0],,0,0,0,,https://github.com/szwhy/sub_bak
+Dialogue: 0,0:00:00.00,0:00:00.00,日[双][0],,0,0,0,,This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+Dialogue: 0,0:00:00.00,0:00:00.00,日[双][0],,0,0,0,,210319 東大王 配信オリジナル『鈴木光名場面集』 #1
 Dialogue: 0,0:00:03.78,0:00:09.74,日[双][0],,0,0,0,,3月24日に東大王チームを卒業する 鈴木光と林輝幸
 Dialogue: 0,0:00:11.25,0:00:16.33,日[双][0],,0,0,0,,そんな2人がこれまでの戦いの中から 名場面TOP5を選出
 Dialogue: 0,0:00:17.16,0:00:19.53,日[双][0],,0,0,0,,貴重な裏話も聞いちゃいました
